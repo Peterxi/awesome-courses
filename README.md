@@ -32,7 +32,7 @@
 
 - [CS 107](http://web.stanford.edu/class/cs107/index.html) **计算机的组成与系统** *斯坦福大学* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4f9.png" width="20" height="20" alt="Lecture Videos" />
 <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" />
-	- CS107 是斯坦福大学入门系列的第三课。这个课程从 C 语言一直往下讲到微处理器，让机器不再神秘。一旦理解了计算机系统如何执行程序、操作数据，你会成为一个更高效的程序员，你会在处理调试、性能、可移植性，以及健壮性问题时更加游刃有余。
+	- CS107 是斯坦福大学入门系列的第三课。这个课程从 C 语言一直往下讲到微处理器，让机器不再神秘。一旦理解了计算机系统如何执行程序、操作数据，你会成为一个更高效的程序员，你会在处理调试、性能、可移植性，以及健壮性等方面的问题时更加游刃有余。
 	- [课程视频](https://www.youtube.com/playlist?list=PL08D9FA018A965057&spfreload=10)
 	- [作业](http://web.stanford.edu/class/cs107/assignments.html)
 - [CS 140](http://web.stanford.edu/~ouster/cgi-bin/cs140-spring14/lectures.php) **操作系统** *斯坦福大学* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" />
@@ -53,7 +53,7 @@
 	- [课程讲座](http://recordings.engineering.illinois.edu/ess/portal/section/11ae0191-49e2-4c34-95fd-fc65355262d4)
 	- [作业](https://courses.engr.illinois.edu/cs425/assignments.html)
 - [CS 452](http://www.cgl.uwaterloo.ca/~wmcowan/teaching/cs452/s12/) **实时编程** *滑铁卢大学*  <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" /> 
-	- 课程中，你要用 C语言写一个实时的微内核和一个根据传感器实时数据反馈控制模型小火车的程序。这其实蛮有挑战的：与模型小火车的通讯速率是 2400 波特，你要花大概 61 毫秒的时间去挨个询问所有传感器的数据来推断模型火车的位置－而在这这一瞬间火车就会移动三厘米的位置。这是滑铁卢大学里最难而且最耗时间的课程之一了。
+	- 课程中，你要用 C语言写一个实时的微内核和一个根据传感器实时数据反馈控制模型小火车的程序。这其实蛮有挑战性的：与模型小火车的通讯速率是 2400 波特，你要花大概 61 毫秒的时间去挨个询问所有传感器的数据来推断模型火车的位置－而在这这一瞬间火车就会移动三厘米的位置。这是滑铁卢大学里最难而且最耗时间的课程之一了。
 	- [作业](http://www.cgl.uwaterloo.ca/~wmcowan/teaching/cs452/s12/assignments/index.html)
 	- [课堂笔记](http://www.cgl.uwaterloo.ca/~wmcowan/teaching/cs452/s12/notes/index.html)
 - [CS 5412](http://www.cs.cornell.edu/Courses/CS5412/2014sp/) **云计算** *康奈尔大学* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" />
