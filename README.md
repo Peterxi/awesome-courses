@@ -82,7 +82,7 @@
 	- 在这门课里你可以学到关于性能分析、重构、构建工业级软件系统、以及设计重要基础设施的知识；学到如何用并行计算、多线程计算、异步 I/O、矢量化技术、GPU 编程、分布式运算等知识来优化性能。
 	- [幻灯片](http://patricklam.ca/p4p/notes/)
 - [PODC](http://dcg.ethz.ch/lectures/podc_allstars/) **分布式计算原理** *苏黎世ETH大学* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4da.png" width="20" height="20" alt="Readings" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" />
-	- 在这门课中你可以通过简单易读的课堂笔记、配合详尽的练习与答案来学习分布式计算中那些必要的算法思想和底层的技巧；都是分布式计算中的重点知识。
+	- 在这门课中你可以通过简单易读的课堂笔记，配合详尽的练习与答案来学习分布式计算中那些必要的算法思想和底层的技巧；都是分布式计算中的重点知识。
 	- [材料](http://dcg.ethz.ch/lectures/podc_allstars/lecture/podc.pdf)
 	- [作业与题解](http://dcg.ethz.ch/lectures/podc_allstars/)
 - [SPAC](http://homes.cs.washington.edu/~djg/teachingMaterials/spac/) **并行与并发** *华盛顿大学* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4da.png" width="20" height="20" alt="Readings" />
