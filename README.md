@@ -96,14 +96,14 @@
 	- 这门课主要讲操作系统设计的基础内容，包括引导、内存管理、环境、文件系统、多任务处理等基础内容。一系列的作业项目会引导你用 C 语言做一个叫 JOS 的操作系统外核。
 	- [作业](http://pdos.csail.mit.edu/6.828/2014/labguide.html)
 	- [课程讲座](http://pdos.csail.mit.edu/6.828/2014/schedule.html)
-- [15-440](http://www.cs.cmu.edu/~dga/15-440/F12/index.html) **Distributed Systems** *Carnegie-Mellon University*  <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" /> 
-	- Introduction to distributed systems with a focus on teaching concepts via projects implemented in the Go programming language.
+- [15-440](http://www.cs.cmu.edu/~dga/15-440/F12/index.html) **分布式系统** *卡内基梅隆大学*  <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" /> 
+	- 这门课通过几个 Go 语言实现的项目介绍了分布式系统，重点在概念的传授。
 	- [作业](http://www.cs.cmu.edu/~dga/15-440/F12/assignments.html)
-- [15-749](http://www.andrew.cmu.edu/course/15-749/) **Engineering Distributed Systems** *Carnegie-Mellon University* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4da.png" width="20" height="20" alt="Readings" />
-	- A project focused course on Distributed Systems with an awesome list of readings
+- [15-749](http://www.andrew.cmu.edu/course/15-749/) **构建分布式系统** *卡内基梅隆大学* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4da.png" width="20" height="20" alt="Readings" />
+	- 一门重项目实践的课程；阅读材料很不错。
 	- [阅读材料](http://www.andrew.cmu.edu/course/15-749/READINGS/)
-- [18-447](http://www.ece.cmu.edu/~ece447/s14/doku.php?id=start) **Introduction to Computer Architecture** *CMU* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4f9.png" width="20" height="20" alt="Lecture Videos" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4da.png" width="20" height="20" alt="Readings" />
-	- Very comprehensive material on Computer Architecture - definitely more than just "introduction". Online material is very user-friendly, even the recitation videos available online. This is the Spring'14 version by Prof. [Onur Mutlu ](http://users.ece.cmu.edu/~omutlu/)
+- [18-447](http://www.ece.cmu.edu/~ece447/s14/doku.php?id=start) **计算机构架导论** *卡内基梅隆大学* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4f9.png" width="20" height="20" alt="Lecture Videos" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4da.png" width="20" height="20" alt="Readings" />
+	- 这门课中关于计算机构架的内容非常的完整，不只是一个“导论”。在线的内容非常易于使用，甚至还有复习课（译者注：一般是student teacher教的，会阐明很多教授没时间过的点，学生可以自由提问）的视频。这是2014春季 [Onur Mutlu ](http://users.ece.cmu.edu/~omutlu/)教授讲的版本。
 	- [Lectures and Recitation](http://www.ece.cmu.edu/~ece447/s14/doku.php?id=schedule) 
 	- [Homeworks](http://www.ece.cmu.edu/~ece447/s14/doku.php?id=homeworks) 7 HWs with answer set as well
 	- [阅读材料] (http://www.ece.cmu.edu/~ece447/s14/doku.php?id=readings)
@@ -112,24 +112,24 @@
 
 ### 编程语言与编译器
 
-- [CIS 194](http://www.seas.upenn.edu/~cis194/) **Introduction to Haskell** *Penn Engineering* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" />
-	- Explore the joys of functional programming, using Haskell as a vehicle. The aim of the course will be to allow you to use Haskell to easily and conveniently write practical programs.
-	- [Previous](http://www.seas.upenn.edu/~cis194/spring13/index.html) semester also available, with more exercises
-	- [Assignments & Lectures](http://www.seas.upenn.edu/~cis194/lectures.html)
-- [Clojure](http://mooc.cs.helsinki.fi/clojure) **Functional Programming with Clojure** *University of Helsinki* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" />
-	- The course is an introduction to functional programming with a dynamically typed language Clojure. We start with an introduction to Clojure; its syntax and development environment. Clojure has a good selection of data structures and we cover most of them. We also go through the basics of recursion and higher-order functions. The course material is in English.
-	- [Github Page](http://iloveponies.github.io/120-hour-epic-sax-marathon/index.html)
-- [COS 326](http://www.cs.princeton.edu/~dpw/courses/cos326-12/info.php) **Functional Programming** *Princeton University* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" />
-	- Covers functional programming concepts like closures, tail-call recursion & parallelism using the OCaml programming language
+- [CIS 194](http://www.seas.upenn.edu/~cis194/) **Haskell 入门** *宾夕法尼亚大学工程与应用科学学院* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" />
+	- 通过Haskell探索函数式编程的乐趣。这门课的目标是让你能轻松自如地用 Haskell 写实用的程序。
+	- [前几届的材料](http://www.seas.upenn.edu/~cis194/spring13/index.html) 在网上也有，里面提供了更多练习。
+	- [作业与讲座](http://www.seas.upenn.edu/~cis194/lectures.html)
+- [Clojure](http://mooc.cs.helsinki.fi/clojure) **Clojure 函数式编程** *赫尔辛基大学* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" />
+	- 这门课用 Clojure 这门动态类型的语言介绍了函数式编程。课程会从对 Clojure 的介绍开始，包括它的语法、开发环境。Clojure 内置的数据结构很不错，课程中也会讲到。除此之外，还有关于递归、高阶方程的内容。这门课用英语讲授。
+	- [课程主页](http://iloveponies.github.io/120-hour-epic-sax-marathon/index.html)
+- [COS 326](http://www.cs.princeton.edu/~dpw/courses/cos326-12/info.php) **函数式编程** *普林斯顿大学* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" />
+	- 这门课用 OCaml 介绍了不少函数式编程的知识，包括闭包、尾调用递归与并行。
 	- [课程讲座](http://www.cs.princeton.edu/~dpw/courses/cos326-12/lectures.php)
 	- [作业](http://www.cs.princeton.edu/~dpw/courses/cos326-12/assignments.php)
-- [CS 164](https://sites.google.com/a/bodik.org/cs164/home) **Hack your language!** *加州大学伯克利分校* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4f9.png" width="20" height="20" alt="Lecture Videos" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" /> 
-	- Introduction to programming languages by designing and implementing domain-specific languages.
+- [CS 164](https://sites.google.com/a/bodik.org/cs164/home) **Hack掉你用的编程语言！** *加州大学伯克利分校* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4f9.png" width="20" height="20" alt="Lecture Videos" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" /> 
+	- 这门课通过教你设计与实现 DSL （译者注：面向领域语言）来介绍编程语言。
 	- [课程视频](https://www.youtube.com/playlist?list=PL421867F00A53B833)
-	- [Code for Assignments](https://bitbucket.org/cs164_overlord/)
-- [CS 173](http://cs.brown.edu/courses/cs173/2014/) **Programming Languages** *Brown University* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4f9.png" width="20" height="20" alt="Lecture Videos" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" />
-	- Course by Prof. Krishnamurthi (author of [HtDP](http://htdp.org/2003-09-26/Book/)) and numerous other [awesome](http://cs.brown.edu/courses/cs173/2012/book/) [books](http://papl.cs.brown.edu/2014/index.html) on programming languages. Uses a custom designed [Pyret](http://www.pyret.org/) programming language to teach the concepts. There was an [online class](http://cs.brown.edu/courses/cs173/2012/OnLine/) hosted in 2012, which includes all lecture videos for you to enjoy.
-	- [Videos](http://cs.brown.edu/courses/cs173/2012/Videos/)
+	- [作业代码](https://bitbucket.org/cs164_overlord/)
+- [CS 173](http://cs.brown.edu/courses/cs173/2014/) **编程语言** *布朗大学* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4f9.png" width="20" height="20" alt="Lecture Videos" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" />
+	- 这门课由 Krishnamurthi 教授（[HtDP](http://htdp.org/2003-09-26/Book/)和其他编程语言方面的[厉害](http://cs.brown.edu/courses/cs173/2012/book/) [的书](http://papl.cs.brown.edu/2014/index.html)的作者）主持。他用一门特别设计的语言（[Pyret](http://www.pyret.org/)）讲所有的概念；他在12年就[在网上](http://cs.brown.edu/courses/cs173/2012/OnLine/)教过这门课。链接里面有所有的课程视频～
+	- [课程视频](http://cs.brown.edu/courses/cs173/2012/Videos/)
 	- [作业](http://cs.brown.edu/courses/cs173/2014/assignments.html)
 - [CS 240h](http://www.scs.stanford.edu/14sp-cs240h/) **Functional Systems in Haskell** *斯坦福大学* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" />
 	- Building software systems in Haskell
