@@ -131,38 +131,38 @@
 	- 这门课由 Krishnamurthi 教授（[HtDP](http://htdp.org/2003-09-26/Book/)和其他编程语言方面的[厉害](http://cs.brown.edu/courses/cs173/2012/book/) [的书](http://papl.cs.brown.edu/2014/index.html)的作者）主持。他用一门特别设计的语言（[Pyret](http://www.pyret.org/)）讲所有的概念；他在12年就[在网上](http://cs.brown.edu/courses/cs173/2012/OnLine/)教过这门课。链接里面有所有的课程视频～
 	- [课程视频](http://cs.brown.edu/courses/cs173/2012/Videos/)
 	- [作业](http://cs.brown.edu/courses/cs173/2014/assignments.html)
-- [CS 240h](http://www.scs.stanford.edu/14sp-cs240h/) **Functional Systems in Haskell** *斯坦福大学* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" />
-	- Building software systems in Haskell
+- [CS 240h](http://www.scs.stanford.edu/14sp-cs240h/) **用Haskell写函数式系统** *斯坦福大学* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" />
+	- 这门课教你用Haskell构建软件系统
 	- [幻灯片](http://www.scs.stanford.edu/14sp-cs240h/slides/)
-	- 3 Assignments: [Lab1](http://www.scs.stanford.edu/14sp-cs240h/labs/lab1.html), [Lab2](http://www.scs.stanford.edu/14sp-cs240h/labs/lab2.html), [Lab3](http://www.scs.stanford.edu/14sp-cs240h/labs/lab3.html)
-- [CS 3110](http://www.cs.cornell.edu/Courses/cs3110/2014fa/course_info.php) **Data Structures and Functional Programming** *康奈尔大学* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" />
-	- Another course that uses OCaml to teach alternative programming paradigms, especially functional and concurrent programming.
+	- 三个作业: [Lab1](http://www.scs.stanford.edu/14sp-cs240h/labs/lab1.html), [Lab2](http://www.scs.stanford.edu/14sp-cs240h/labs/lab2.html), [Lab3](http://www.scs.stanford.edu/14sp-cs240h/labs/lab3.html)
+- [CS 3110](http://www.cs.cornell.edu/Courses/cs3110/2014fa/course_info.php) **数据结构与函数式编程** *康奈尔大学* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" />
+	- 又一门用 OCaml 语言讲授不同编程范式（特别是函数式编程、并发）的课程。
 	- [幻灯片](http://www.cs.cornell.edu/Courses/cs3110/2014fa/lecture_notes.php)
 	- [作业](http://www.cs.cornell.edu/Courses/cs3110/2014fa/)
-- [CS 421](https://courses.engr.illinois.edu/cs421/fa2014/) **Programming Languages and Compilers** *伊利诺伊大学－香槟分校* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4f9.png" width="20" height="20" alt="Lecture Videos" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" />
-	- Course that uses OCaml to teach functional programming and programming language design.
+- [CS 421](https://courses.engr.illinois.edu/cs421/fa2014/) **编程语言与编译器** *伊利诺伊大学－香槟分校* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4f9.png" width="20" height="20" alt="Lecture Videos" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" />
+	- 这门课用 OCaml 讲函数式编程与编程语言设计。
 	- [课程讲座](https://courses.engr.illinois.edu/cs421/fa2014/lectures/index.html)
-	- [Videos](http://recordings.engineering.illinois.edu/ess/portal/section/631edaeb-2a33-4537-b7c8-0c1cba783a4f)
+	- [视频](http://recordings.engineering.illinois.edu/ess/portal/section/631edaeb-2a33-4537-b7c8-0c1cba783a4f)
 	- [作业](https://courses.engr.illinois.edu/cs421/fa2014/mps/index.html)
-	- [Exams](https://courses.engr.illinois.edu/cs421/fa2014/exams/index.html)
-- [CS 4610](http://www.cs.virginia.edu/~weimer/4610/) **Programming Languages and Compilers** *University of Virginia* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" />
-	- Course that uses OCaml to teach functional programming and programming language design. Each assignment is a part of an interpreter and compiler for an object-oriented language similar to Java, and you are required to use a different language for each assignment (i.e., choose 4 from Python, JS, OCaml, Haskell, Ruby).
+	- [考试](https://courses.engr.illinois.edu/cs421/fa2014/exams/index.html)
+- [CS 4610](http://www.cs.virginia.edu/~weimer/4610/) **编程语言与编译器** *弗吉尼亚大学* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" />
+	- 这门课用 OCaml 教函数式编程和编程语言设计。每次作业都让你实现一个类 Java 的面向对象语言的编译器／解释器。你还必须呀用不同的语言来完成每次的作业（用Python、JS、OCaml、Haskell 与 Ruby）
 	- [课堂笔记](http://www.cs.virginia.edu/~weimer/4610/lectures.html)
 	- [作业](http://www.cs.virginia.edu/~weimer/4610/pa.html)
-- [CS 5470](http://matt.might.net/teaching/compilers/spring-2015/) **Compilers** *University of Utah* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4da.png" width="20" height="20" alt="Readings" />
-	- If you're a fan of Prof Matt's writing on his [fantastic blog](http://matt.might.net/articles/) you ought to give this a shot. The course covers the design and implementation of compilers, and it explores related topics such as interpreters, virtual machines and runtime systems. Aside from the Prof's witty take on [cheating](http://matt.might.net/teaching/compilers/spring-2015/#collaboration) the page has tons of interesting links on programming languages, parsing and compilers.
-	- [课堂笔记](https://www.dropbox.com/sh/zanwtoflw4pcfu8/5pdT6axS3y)
-	- [Projects](http://matt.might.net/teaching/compilers/spring-2015/#projects)
-- [CSE 341](http://courses.cs.washington.edu/courses/cse341/14sp/) **Programming Languages** *University of Washington* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" />
-	- Covers non-imperative paradigms and languages such as Ruby, Racket, and ML and the fundamentals of programming languages.
+- [CS 5470](http://matt.might.net/teaching/compilers/spring-2015/) **编译器** *犹他大学* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4da.png" width="20" height="20" alt="Readings" />
+	- 如果你喜欢 Matt 教授写的[超赞的博客](http://matt.might.net/articles/)，你一定要试试这门课。这门课探讨了编译器的设计与实现，也讲了一些相关的主题，包括解释器、虚拟机与运行时系统。除了那篇记载着教授如何机智地让学生没法儿[作弊](http://matt.might.net/teaching/compilers/spring-2015/#collaboration)的文章之外，博客里面还有一大堆不错的关于编程语言、编程语言解析和编译器的链接。
+ 	- [课堂笔记](https://www.dropbox.com/sh/zanwtoflw4pcfu8/5pdT6axS3y)
+	- [项目作业](http://matt.might.net/teaching/compilers/spring-2015/#projects)
+- [CSE 341](http://courses.cs.washington.edu/courses/cse341/14sp/) **编程语言** *华盛顿大学* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" />
+	- 这门课探讨了一些非主流的编程范式与编程语言，比如Ruby、Racket、和 ML，还探讨了所有编程语言的基础。
 	- [课程讲座](https://courses.cs.washington.edu/courses/cse341/14sp/#lecture)
-	- [Assignments and Tests](https://courses.cs.washington.edu/courses/cse341/14sp/#homework)
+	- [作业与考试](https://courses.cs.washington.edu/courses/cse341/14sp/#homework)
 
 -------
 
-### Algorithms
+### 算法
 
-- [CS 61B](http://www.cs.berkeley.edu/~jrs/61b/) **Data Structures** *Berkeley* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4f9.png" width="20" height="20" alt="Lecture Videos" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" />
+- [CS 61B](http://www.cs.berkeley.edu/~jrs/61b/) **数据结构** *加州大学伯克利分校* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4f9.png" width="20" height="20" alt="Lecture Videos" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" />
 	- In this course, you will study advanced programming techniques including data structures, encapsulation, abstract data types, interfaces, and algorithms for sorting and searching, and you will get a taste of “software engineering”—the design and implementation of large programs.
 	- [Labs](http://www.cs.berkeley.edu/~jrs/61b/lab/index.html)
 	- [Lecture Videos on Youtube](http://www.youtube.com/watch?v=frxF7Vs96YU&list=PLMM0a7ZGnITrgfhOxMNP7bpP4hhhKNY9s)
@@ -170,7 +170,7 @@
 	- Algorithms class covering recursion, randomization, amortization, graph algorithms, network flows and hardness. The lecture notes by Prof. Erikson are comprehensive enough to be a book by themselves. Highly recommended!
 	- [课堂笔记](http://web.engr.illinois.edu/~jeffe/teaching/algorithms/all-algorithms.pdf)
 	- [Labs and Exams](http://web.engr.illinois.edu/~jeffe/teaching/algorithms/all-hwex.pdf) 
-- [CS 2150](https://github.com/aaronbloomfield/pdr) **Program & Data Representation** *University of Virginia* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" />
+- [CS 2150](https://github.com/aaronbloomfield/pdr) **Program & Data Representation** *弗吉尼亚大学* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" />
 	- This data structures course introduces C++, linked-lists, stacks, queues, trees, numerical representation, hash tables, priority queues, heaps, huffman coding, graphs, and x86 assembly.
 	- [课程讲座](http://aaronbloomfield.github.io/pdr/slides/)
 	- [作业](http://aaronbloomfield.github.io/pdr/labs/)
@@ -324,7 +324,7 @@
 - [CS 5150](http://www.cs.cornell.edu/courses/CS5150/2014fa/overview.html) **Software Engineering** *康奈尔大学* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4da.png" width="20" height="20" alt="Readings" />
 	-  Introduction to the practical problems of specifying, designing, building, testing, and delivering reliable software systems
 	- [课程讲座](http://www.cs.cornell.edu/courses/CS5150/2014fa/materials.html)
-- [CSE 154](http://courses.cs.washington.edu/courses/cse154/14au/) **Web Programming** *University of Washington* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" /> 
+- [CSE 154](http://courses.cs.washington.edu/courses/cse154/14au/) **Web Programming** *华盛顿大学* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" /> 
 	- This course is an introduction to programming for the World Wide Web. Covers use of HTML, CSS, PHP, JavaScript, AJAX, and SQL.
 	- [课程讲座](http://courses.cs.washington.edu/courses/cse154/14au/lectures.shtml#today)
 	- [作业](http://courses.cs.washington.edu/courses/cse154/14au/homework.shtml)
